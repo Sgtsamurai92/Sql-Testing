@@ -1,0 +1,9 @@
+# SQLite database
+qa_test.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
