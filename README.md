@@ -37,7 +37,3 @@ python .\automation\db_test_runner.py
 ```
 
 You should see per-query results like PASS/FAIL. Queries that return rows are considered failures (they identify data violations). Errors are printed as warnings.
-
-Notes:
-- If you previously used the older path `autoamtion/db_test_runner.py`, switch to `automation/db_test_runner.py`.
-- To reset, simply delete `qa_test.db` and re-run the script.
